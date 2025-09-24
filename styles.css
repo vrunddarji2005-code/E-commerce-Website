@@ -106,6 +106,7 @@ body {
 
 .cart-btn:hover, .user-btn:hover {
     background: #2980b9;
+    transform: translateY(-3px);
 }
 
 .cart-count {
@@ -700,3 +701,4 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
